@@ -15,7 +15,7 @@
 
 ## About Me
 
-I got into cybersecurity because breaches are not abstract — they destroy businesses, expose people, and cause real damage. I wanted to be on the side that stops that.
+You found me <WELCOME> This is how it all begin > I got into cybersecurity because breaches are not abstract — they destroy businesses, expose people, and cause real damage. I wanted to be on the side that stops that.
 
 I'm based in Dallas, TX, finishing my B.A.A.S. in Information Technology at UNT (Expected Fall 2026). I hold CompTIA Security+ and Network+, and I've been building hands-on skills across the full security stack — threat detection, network hardening, endpoint security, and cloud.
 
