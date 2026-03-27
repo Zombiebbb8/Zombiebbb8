@@ -6,16 +6,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=IT+%26+Cybersecurity+Professional;CompTIA+Security%2B+%7C+Network%2B;UNT+B.A.A.S.+Information+Technology+%2726;SOC+Analyst+%7C+IT+Infrastructure+%7C+Dallas+TX)](https://linkedin.com/in/gabrielalade)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Zombiebbb8&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/Zombiebbb8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielalade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielalade)
-[![Location](https://img.shields.io/badge/Location-Dallas%2C+TX-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielalade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielalade) [![Location](https://img.shields.io/badge/Location-Dallas%2C+TX-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 </div>
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
-You found me <WELCOME> This is how it all begin > I got into cybersecurity because breaches are not abstract — they destroy businesses, expose people, and cause real damage. I wanted to be on the side that stops that.
+I got into cybersecurity because breaches are not abstract — they destroy businesses, expose people, and cause real damage. I wanted to be on the side that stops that.
 
 I'm based in Dallas, TX, finishing my B.A.A.S. in Information Technology at UNT (Expected Fall 2026). I hold CompTIA Security+ and Network+, and I've been building hands-on skills across the full security stack — threat detection, network hardening, endpoint security, and cloud.
 
@@ -111,6 +110,9 @@ Full security audit of a personal macOS workstation — from scan to remediation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielalade)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielalade79@gmail.com)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https://x.com/iamyungbreezyy&style=social)](https://x.com/iamyungbreezyy)
+
+
 
 </div>
 
