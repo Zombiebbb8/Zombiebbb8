@@ -18,10 +18,9 @@ I got into cybersecurity because breaches are not abstract — they destroy busi
 
 I'm based in Dallas, TX, finishing my B.A.A.S. in Information Technology at UNT (Expected Fall 2026). I hold CompTIA Security+ and Network+, and I've been building hands-on skills across the full security stack — threat detection, network hardening, endpoint security, and cloud.
 
-My approach is simple: earn the cert, build the lab, document the work. No shortcuts.
+My approach is simple: earn the cert, build the lab, document the work. 
 
-What I'm focused on right now: threat detection and incident response, network and infrastructure security, system hardening, and AWS cloud security. Every project in this repo is real work — not coursework, not tutorials.
-
+What I'm focused on right now: threat detection and incident response, network and infrastructure security, system hardening, and AWS cloud security. 
 ---
 
 ## 🔐 Featured Project
